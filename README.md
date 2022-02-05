@@ -19,3 +19,13 @@ Description : Group Project
 Mobile application made using flutter which is an open-source UI Software development. This application helps user to view list of random activities and beforehand,user has to sign in into the system.After that the user can login successfully and with this app it helps to present random activities for the user and allows the user to learn and do new activities.
 
 ## Apps Feature
+
+
+## Compilation and Running Instructions
+
+Download and update the pubspec.yaml file
+Download and update the android/build.gradle file
+Download and update the android/app/build.gradle file
+Download and update the /assets/images/ file
+Download and update all files in /lib/
+Run the app using the command: flutter run
